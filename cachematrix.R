@@ -97,3 +97,6 @@ cacheSolve <- function(x, ...) {
                 
         }
 }
+
+## Adding this like to have a second commit and see how it is displayed in
+## GitHub repository web page.
